@@ -1,0 +1,2 @@
+/root/hadoop-2.7.6/spark/bin/spark-submit --master spark://172.17.11.54:7077 --deploy-mode client --class SparkOperateHBase testScala.jar 
+
